@@ -12,8 +12,8 @@ import org.apache.pdfbox.text.PDFTextStripper;
 
 public class PDFTextExtractor {
      public static void main(String[] args) {
-        String inputFilePath = "D:\\software\\itheima\\MOYU\\TestFile\\2023_en.pdf";
-        String outputFilePath = "D:\\software\\itheima\\MOYU\\TestFile\\2023_en.txt";
+        String inputFilePath = "D:\\software\\itheima\\MOYU\\TestFile\\FiveOne.pdf";
+        String outputFilePath = "D:\\software\\itheima\\MOYU\\TestFile\\FiveOne.txt";
 
         try {
             // 加载 PDF 文档
